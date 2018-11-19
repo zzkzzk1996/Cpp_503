@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zekunzhang/CLionProjects/In-class 6/main.cpp
+iostream
+-
+point.h
+/Users/zekunzhang/CLionProjects/In-class 6/point.h
+threedimensionalpoint.h
+/Users/zekunzhang/CLionProjects/In-class 6/threedimensionalpoint.h
+
+/Users/zekunzhang/CLionProjects/In-class 6/point.h
+
+/Users/zekunzhang/CLionProjects/In-class 6/threedimensionalpoint.h
+point.h
+/Users/zekunzhang/CLionProjects/In-class 6/point.h
+
