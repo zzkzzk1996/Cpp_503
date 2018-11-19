@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zekunzhang/CLionProjects/Homework_10/Linkedlist_Zekun.cpp
+Linkedlist_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_10/Linkedlist_Zekun.h
+iostream
+-
+iomanip
+-
+
+/Users/zekunzhang/CLionProjects/Homework_10/Linkedlist_Zekun.h
+string
+-
+Node_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_10/Node_Zekun.h
+
+/Users/zekunzhang/CLionProjects/Homework_10/Node_Zekun.cpp
+Node_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_10/Node_Zekun.h
+
+/Users/zekunzhang/CLionProjects/Homework_10/Node_Zekun.h
+string
+-
+
+/Users/zekunzhang/CLionProjects/Homework_10/main_Zekun.cpp
+iostream
+-
+string
+-
+Linkedlist_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_10/Linkedlist_Zekun.h
+
