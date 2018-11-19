@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zekunzhang/CLionProjects/Homework_9/OvernightPackage_Zekun.h
+package_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_9/package_Zekun.h
+
+/Users/zekunzhang/CLionProjects/Homework_9/TwoDayPackage_Zekun.h
+package_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_9/package_Zekun.h
+
+/Users/zekunzhang/CLionProjects/Homework_9/main_Zekun.cpp
+iostream
+-
+vector
+-
+package_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_9/package_Zekun.h
+TwoDayPackage_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_9/TwoDayPackage_Zekun.h
+OvernightPackage_Zekun.h
+/Users/zekunzhang/CLionProjects/Homework_9/OvernightPackage_Zekun.h
+
+/Users/zekunzhang/CLionProjects/Homework_9/package_Zekun.h
+string
+-
+
