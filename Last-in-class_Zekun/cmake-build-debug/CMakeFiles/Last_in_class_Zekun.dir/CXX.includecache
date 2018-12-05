@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zekunzhang/CLionProjects/Last-in-class_Zekun/Main_Zekun.cpp
+iostream
+-
+algorithm
+-
+deque
+-
+numeric
+-
+iterator
+-
+
