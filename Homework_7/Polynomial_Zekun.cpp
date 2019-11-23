@@ -70,7 +70,11 @@ ostream &operator<<(ostream &PrintPoly, const Polynomial &poly) {
                 }
             }
             if (i != 0) {
-                PrintPoly << abs(poly.coef[i]) << "x^" << i;
+                if (poly.coef[i] == 1 || poly.coef[i] == - 1) {
+                    PrintPoly << "x^" << i;
+                } else {
+                    PrintPoly << abs(poly.coef[i]) << "x^" << i;
+                }
             } else {
                 PrintPoly << abs(poly.coef[i]);
             }
@@ -155,3 +159,4 @@ const double *Polynomial::getCoef() const {
 Polynomial::~Polynomial() {
 
 }
+
